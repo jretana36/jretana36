@@ -1,7 +1,7 @@
-[![MasterHead](https://dribbble.com/shots/2619105/attachments/2619105-digital-eye?mode=media)
+[![MasterHead](https://scitechdaily.com/images/Bionic-Eye-Concept.gif)
 <h1 align="center">Hi 👋, I'm Jose Retana</h1>
 <p align="left"> <img src=https://gifdb.com/gif/honeycomb-digital-screen-l3096mxifcfzmhl9.html" alt="jretana36" /> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/honeycomb-digital-screen-l3096mxifcfzmhl9.webp")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jretana36" alt="jretana36" /></a> </p>
 
