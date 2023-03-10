@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Bionic-Eye-Concept.gif)
+![MasterHead](https://scitechdaily.com/images/Bionic-Eye-Concept.gif)
 <h1 align="center">Welcome ✌️, I'm Jose Retana</h1>
 
 - 🌱 I’m currently learning **JavaScript, Python, HTML, CSS**
