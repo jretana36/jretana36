@@ -1,8 +1,6 @@
 [![MasterHead](https://scitechdaily.com/images/Bionic-Eye-Concept.gif)
 <h1 align="center">Welcome ✌️, I'm Jose Retana</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jretana36" alt="jretana36" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, Python, HTML, CSS**
 
 - 💬 Ask me about **anything, i am more than happy to help.**
