@@ -1,4 +1,4 @@
-[![MasterHead] (https://scitechdaily.com/images/Bionic-Eye-Concept.gif)
+[![MasterHead](https://scitechdaily.com/images/Bionic-Eye-Concept.gif)
 <h1 align="center">Hi 👋, I'm Jose Retana</h1>
 <p align="left"> <img src=https://gifdb.com/gif/honeycomb-digital-screen-l3096mxifcfzmhl9.html" alt="jretana36" /> </p>
 (img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/honeycomb-digital-screen-l3096mxifcfzmhl9.webp")
