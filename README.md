@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/2619105/attachments/2619105-digital-eye?mode=media)](https://rishavchanda.io)
+[![MasterHead](https://dribbble.com/shots/2619105/attachments/2619105-digital-eye?mode=media)
 <h1 align="center">Hi 👋, I'm Jose Retana</h1>
 <p align="left"> <img src=https://gifdb.com/gif/honeycomb-digital-screen-l3096mxifcfzmhl9.html" alt="jretana36" /> </p>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
